@@ -278,31 +278,31 @@ exports.OffNsfw = () => {
     return `Fitur nsfw belum di aktifkan`
 }
 exports.CoverBanLol = (prefix, command) => {
-    return `Contoh: ${prefix + command} nama|heroes\nUsage: ${prefix + command} zeeone|jinx7`
+    return `Contoh: ${prefix + command} nama|heroes\nUsage: ${prefix + command} fin ofc|jinx7`
 }
 exports.coverbannerlol = (style) => {
     return `*Heroes Yg Kamu Masukkan Salah*\n\n_Berikut list heroes yg benar, Total_ *${style}* _heroes_\n\n`
 }
 exports.pubglogomaker = (prefix, command) => {
-    return `Contoh: ${prefix + command} nama|style\nUsage: ${prefix + command} zeeone|women`
+    return `Contoh: ${prefix + command} nama|style\nUsage: ${prefix + command} fin ofc|women`
 }
 exports.pubglogomaker_ = (style) => {
     return `*Style Yg Kamu Masukkan Salah*\n\n_Berikut list style yg benar, Total_ *${style}* _style_\n\n`
 }
 exports.colorfulpubg = (prefix, command) => {
-    return `Contoh: ${prefix + command} nama|color\nUsage: ${prefix + command} zeeone|gold`
+    return `Contoh: ${prefix + command} nama|color\nUsage: ${prefix + command} fin ofc|gold`
 }
 exports.colorfulpubg_ = (style) => {
     return `*Color Yg Kamu Masukkan Salah*\n\n_Berikut list color yg benar, Total_ *${style}* _color_\n\n`
 }
 exports.astronotspace = (prefix, command) => {
-    return `Contoh: ${prefix + command} nama|style\nUsage: ${prefix + command} zeeone|anubis`
+    return `Contoh: ${prefix + command} nama|style\nUsage: ${prefix + command} fin ofc|anubis`
 }
 exports.wallpaperaov = (prefix, command) => {
-    return `Contoh: ${prefix + command} nama|heroes\nUsage: ${prefix + command} zeeone|allain`
+    return `Contoh: ${prefix + command} nama|heroes\nUsage: ${prefix + command} fin ofc|allain`
 }
 exports.maketeamlogo = (style, style2, prefix, command) => {
-    return `Contoh: ${prefix + command} nama|${style}\nUsage: ${prefix + command} zeeone|${style2}`
+    return `Contoh: ${prefix + command} nama|${style}\nUsage: ${prefix + command} fin ofc|${style2}`
 }
 
 exports.MaketeamlogoT = (a, b, c, d, e, f, g, h) => {
@@ -1723,6 +1723,7 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 │○ Nurutomo
 │○ Rashid
 │○ ZeeoneOfc
+│○ Fin Ofc
 │○ Penyedia Module
 ╰❒ And All Support
     `
@@ -1738,9 +1739,6 @@ exports.rules = (prefix) => {
 
 🗯️ Bot tidak atau lambat merespon ?
 ➡️ Mungkin dipengaruhi oleh jaringan, signal, banned oleh Whatsapp dan beberapa asalan.
-
-🗯️ Dimana saya bisa mendapatkan Script dari bot ini ?
-➡️ Script ini bisa kalian dapatkan di YouTube ZEEONE OFC
 
 🗯️ Boleh saya menambah ke grup?
 ➡️ Untuk itu tergantung dari owner bot sendiri
@@ -1772,7 +1770,7 @@ exports.source = () =>{
 return`*------「 SOURCE CODE 」 ------*
 
 Base : https://github.com/DikaArdnt/Hisoka-Morou
-Recode : https://youtube.com/playlist?list=PLBVrgpCpAnw2ZHjdSrdjasj6crrD1RBgm
+Recode : Fin Ofc
 `
 }
 exports.tos = (ownernomer) => {
@@ -2446,6 +2444,7 @@ exports.tqto = () =>{
 │○ Nurutomo
 │○ Rashid
 │○ ZeeoneOfc
+│○ Fin Ofc
 │○ Penyedia Module
 ╰❒ And All Support
 `
